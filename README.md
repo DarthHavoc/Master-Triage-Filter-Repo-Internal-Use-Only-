@@ -47,4 +47,7 @@ Each triage filter is stored as a markdown file in the respective category folde
 
 
 ```
+See `TriageFilter_Template.md` in each category folder for the entry format.
+
+
 All new triage filter entries must follow this convention and be saved under the correct category folder.
